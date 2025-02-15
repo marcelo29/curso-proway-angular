@@ -13,6 +13,6 @@ export class RenderizandoListasComponent {
     {id: 1, nome: 'moto g', descricao:'celular domestico', esgotado: false},
     {id: 1, nome: 'moto xl', descricao:'celular domestico', esgotado: false},
     {id: 1, nome: 'moto ls', descricao:'celular domestico', esgotado: false},
-    {id: 1, nome: 'moto e7', descricao:'celular domestico', esgotado: false},
+    {id: 1, nome: 'moto e7', descricao:'celular domestico', esgotado: true}
   ]
 }
